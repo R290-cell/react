@@ -28,12 +28,12 @@
 
 ### 📈 GitHub Stats
 
-![GitHub followers](https://img.shields.io/github/followers/RoseWali?style=social)
-![GitHub stars](https://img.shields.io/github/stars/RoseWali?style=social)
+![GitHub followers](https://img.shields.io/github/followers/R290-cell?style=social)
+![GitHub stars](https://img.shields.io/github/stars/R290-cell?style=social)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RoseWali&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RoseWali&layout=compact)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RoseWali&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=R290-cell&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=R290-cell&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=R290-cell&theme=dark&hide_border=true)
 
 ---
 
